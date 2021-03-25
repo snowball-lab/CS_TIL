@@ -25,7 +25,10 @@
 - 이러한 모듈을 서버라 하며, 서버들은 독립된 프로세스로 구현
 - 마이크로 커널은 서버들 간의 통신(IPC), 어플리케이션의 서비스 콜 전달과 같은 단순한 기능만을 제공
 
-<img src="https://user-images.githubusercontent.com/37072010/112117230-78d34d80-8bfe-11eb-9a92-82045208a3db.png" alt="image" style="width:50%;" /><img src="https://user-images.githubusercontent.com/37072010/112117315-96a0b280-8bfe-11eb-90f3-349670145e23.png" alt="image" style="width:50%;" />
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/37072010/112117230-78d34d80-8bfe-11eb-9a92-82045208a3db.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/37072010/112117315-96a0b280-8bfe-11eb-90f3-349670145e23.png" width="400" /> 
+</p>
 
 - 장점
   - 각 커널 서비스 서버가 따로 구현되어 있기 때문에 상호 간의 의존성이 낮음
